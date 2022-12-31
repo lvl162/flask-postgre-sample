@@ -1,0 +1,3 @@
+flask-postgre/**
+__pycache__/**
+.flaskenv
